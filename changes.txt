@@ -1,5 +1,5 @@
-* 2015-03-20
-EPRINT (up to 2015/600)
+* 2015-06-23
+EPRINT (up to 2015/600), STOC 2015
 
 * 2015-06-13
 GitHub project and updated website
