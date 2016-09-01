@@ -1,6 +1,9 @@
 * 2016-08-31
 CHES 2016, CRYPTO 2016, EUROCRYPT 2016, FSE 2016, STOC 2016
 
+* 2016-07-18
+ISC books (provided by Tancrède Lepoint)
+
 * 2016-03-11
 ICICS 2015, PKC 2016
 
