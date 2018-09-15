@@ -1,3 +1,6 @@
+* 2018-09-15
+FOCS 1996 (was incomplete), adding DOI to many papers
+
 * 2018-09-13
 ASIACCS 2018
 
