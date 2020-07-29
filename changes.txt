@@ -1,3 +1,6 @@
+* 2020-07-28
+ToSC 2019 (Issue 4), ToSC 2020 (Issues 1-2), TOSC 2020 (NIST Special Issue)
+
 * 2020-07-24
 AFRICACRYPT 2020, ICALP 2020 
 
