@@ -1,3 +1,6 @@
+* 2020-08-13
+ACISP 2020, CRYPTO 2020
+
 * 2020-07-28
 ToSC 2019 (Issue 4), ToSC 2020 (Issues 1-2), TOSC 2020 (NIST Special Issue)
 
