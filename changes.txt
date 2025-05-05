@@ -1,3 +1,6 @@
+* 2025-04-04
+EPRINT 2024 (remaining entries), EPRINT 2025 (up to 2025/604)
+
 * 2025-02-24
 TCHES 2024 (Issues 3-4)
 
