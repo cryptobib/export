@@ -1,3 +1,12 @@
+* 2025-05-21
+Added PKC 2025, CiC vol 1, nr 4 and vol 2, nr 1
+
+* 2025-05-18
+Added missing volumes from PoPETS 2023, Added EC 2025, FC 2024, FCW 2024, ICICS 2024, INDOCRYPT 24, PROVSEC 2024, SAC 2024, WISA 2024
+
+* 2025-05-18
+ACNS: Full name no longer display for abbrev2 and abbrev3 (as for other conferences).
+
 * 2025-04-04
 EPRINT 2024 (remaining entries), EPRINT 2025 (up to 2025/604)
 
