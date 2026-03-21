@@ -1,3 +1,6 @@
+* 2026-02-26
+DCC 2025 (Number 12)
+
 * 2026-02-18
 CiC vol 2 (nr. 2-4), EPRINT 2025 (remaining entries), FOCS 2025, ISTCS 1992-1997, SAC 2025
 
